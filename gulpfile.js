@@ -8,6 +8,8 @@
 
 var gulp = require('gulp');
 var wrench = require('wrench');
+var inject = require('gulp-inject');
+
 
 /**
  *  This will load all js or coffee files in the gulp directory
